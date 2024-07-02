@@ -8,7 +8,7 @@
 <p>In addition to my development skills, I am also a graphic designer. Though I am currently focusing more on development, I have completed comprehensive courses and attended numerous workshops during my intermediate studies, which have honed my design abilities.</p>
 <p>Moreover, I have a keen interest in photo editing and capturing aesthetically pleasing pictures. This innate talent allows me to see the beauty in everyday moments and express creativity through visual storytelling.</p>
 
-- 🌱 I’m currently learning **python | GEN AI**
+- 🌱 I’m currently learning Data science in Python
 
 - 💬 Ask me about **HTML, CSS , JS , Node.js , Expressjs ,mongoDB,Java,C++**
 
